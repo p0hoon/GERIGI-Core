@@ -20,11 +20,11 @@ Hasil sintesis dan analisis pewaktuan (*Static Timing Analysis*) pada perangkat 
 
 | Parameter Sumber Daya | Penggunaan Modul | Kapasitas Tersedia | Utilisasi |
 | :--- | :--- | :--- | :--- |
-| **Adaptive Logic Modules (ALMs)** | 2.495 ALMs | 41.910 ALMs | ~6% |
-| **Dedicated Logic Registers (FF)** | 2.264 | 415.000 | ~1,3% |
+| **Adaptive Logic Modules (ALMs)** | 2.463 ALMs | 41.910 ALMs | 6% |
+| **Dedicated Logic Registers (FF)** | 2.271 | 415.000 | 1,3% |
 | **Block RAM (M10K)** | 0 Kbits | 5.570 Kbits | 0% |
 | **DSP Blocks** | 0 | 112 | 0% |
-| **Maximum Frequency (Fmax)** | **85,49 MHz** | Target: 50,00 MHz | Margin Aman |
+| **Maximum Frequency (Fmax)** | **89,00 MHz** | Target: 50,00 MHz | Margin Aman |
 
 ---
 
